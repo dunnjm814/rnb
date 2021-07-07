@@ -7,7 +7,7 @@ This is the starter for a Flask React project.
 1. Clone this repository (only this branch)
 
    ```bash
-   git clone https://github.com/Lazytangent/flask-react-template.git
+   git clone https://github.com/dunnjm814/rnb.git
    ```
 
 2. Install dependencies
