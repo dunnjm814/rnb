@@ -1,3 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans");
+@import url("https://fonts.googleapis.com/css?family=Sansita");
+body {
+  background-color: #7AA2FF;
+  font-family: "Sansita", sans-serif;
+}/*# sourceMappingURL=index.css.map */
